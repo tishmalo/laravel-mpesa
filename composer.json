@@ -1,0 +1,14 @@
+{
+    "name": "tish/laravel-mpesa",
+    "description": "Laravel M-Pesa Lipa Na M-Pesa STK Push integration package",
+    "keywords": ["laravel", "mpesa", "safaricom", "stk-push", "payment"],
+    "homepage": "https://github.com/tishmalo/laravel-mpesa",
+    "support": {
+        "issues": "https://github.com/tishmalo/laravel-mpesa/issues"
+    },
+    "require": {
+        "php": "^8.1",
+        "illuminate/support": "^9.0|^10.0|^11.0",
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
