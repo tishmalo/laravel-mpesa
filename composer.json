@@ -7,7 +7,7 @@
     "authors": [
         {
             "name": "Tish",
-            "email": "your.email@example.com"
+            "email": "tishmalo99@gmail.com"
         }
     ],
     "homepage": "https://github.com/tishmalo/laravel-mpesa",
@@ -16,14 +16,14 @@
         "source": "https://github.com/tishmalo/laravel-mpesa"
     },
     "require": {
-        "php": "^8.0|^8.1|^8.2",
-        "illuminate/support": "^8.0|^9.0|^10.0|^11.0",
-        "guzzlehttp/guzzle": "^7.0"
+        "php": "^8.2",
+        "illuminate/support": "^9.0|^10.0|^11.0|^12.0",
+        "guzzlehttp/guzzle": "^7.8.2"
     },
     "require-dev": {
-        "orchestra/testbench": "^6.0|^7.0|^8.0|^9.0",
-        "phpunit/phpunit": "^9.0|^10.0",
-        "mockery/mockery": "^1.4"
+        "orchestra/testbench": "^7.0|^8.0|^9.0|^10.0|^11.0",
+        "phpunit/phpunit": "^10.5|^11.5|^12.0",
+        "mockery/mockery": "^1.6"
     },
     "autoload": {
         "psr-4": {
